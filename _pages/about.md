@@ -2,24 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. candidate
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_img.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: photo @ Yellowstone # more info
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am a 5th-year Ph.D. candidate from Manning College of Information and Computer Sciences at University of Massachusetts Amherst. I work as a research assistant at the Center for Intelligent Information Retrieval ([CIIR](https://ciir.cs.umass.edu/)) under the mentorship of my advisor, Dr. [James Allan](https://www.cs.umass.edu/~allan). My research endeavors lie at the intersection of information retrieval, natural language processing, and machine learning (IR/NLP/ML). I work on various IR tasks, such as entity retrieval, multilingual retrieval, multimodal search and query by example, etc.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my master in Statistics from the University of Maryland, College Park and my bachelor in Applied Math from Sun Yat-sen University.
