@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Zhiqi's Personal Page # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Zhiqi
 middle_name:
 last_name: Huang
@@ -225,8 +225,8 @@ exclude:
   - _includes/related_posts.liquid # disable all posts
   - _pages/repositories.md # disable repositories
   - _pages/profiles.md # disable people
-  - _includes/profiles/liquid # disable people
   - _pages/dropdown.md # disable dropdown submenus
+  - _pages/projects.md # disable projects page
 keep_files:
   - CNAME
   - .nojekyll
