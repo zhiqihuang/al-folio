@@ -1,12 +1,20 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /service/
+title: service
+description: List of academic services.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Program Committee Member 
+* SIGIR ('22, '23, '24)
+* CIKM ('21, '22, '23)
+* WWW ('23, '24)
 
-Organize your courses by years, topics, or universities, however you like!
+
+### Teaching Assistant
+* Digital Forensics (CMPSCI 365), Spring 2019.
+* Machine Learning (CMPSCI 689), Fall 2019.
+* Reasoning Under Uncertainty (CMPSCI 240), Spring 2020.
+
