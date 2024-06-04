@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm joining Google as research intern!
+I'm joining Google as research intern.
